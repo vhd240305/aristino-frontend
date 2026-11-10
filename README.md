@@ -92,4 +92,4 @@ src/
 
 ## Tác giả
 
-**TEN_BAN** – [GitHub](https://github.com/vhd240305)
+**Vũ Huy Đạt !** – [GitHub](https://github.com/vhd240305)
